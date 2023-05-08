@@ -24,7 +24,7 @@
                 「 I'm a software developer from <b>Russia</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
-                
+                <br>
                 <br>
         </samp>
  <div align="center"> 
