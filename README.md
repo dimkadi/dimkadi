@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=dimkadi&style=flat-square&color=blue)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
 </div>
@@ -18,7 +20,7 @@
   <br />
  :space_invader: My name is Dmitri
   <br />
-:sunglasses: I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 
+:sunglasses: I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </div>
  <div> 
   
