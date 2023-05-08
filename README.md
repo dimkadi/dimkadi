@@ -10,14 +10,12 @@
   <br /></a>
   
   <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+        <samp>&gt; Hey There! <h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> I am
+                <b><a target="_blank" href="https://github.com/dimkadi/">Dmitri Diakov</a></b>
         </samp>
 </h3>
-<br>
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
   </div>
 <div> 
   
