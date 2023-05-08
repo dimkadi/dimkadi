@@ -10,9 +10,9 @@
   <br /></a>
   
   <h3 align="center">
-        <samp>&gt; Hey There! <h1>
+        <samp>&gt; Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> I am
+ I am
                 <b><a target="_blank" href="https://github.com/dimkadi/">Dmitri Diakov</a></b>
         </samp>
 </h3>
