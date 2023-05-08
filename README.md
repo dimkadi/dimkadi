@@ -25,7 +25,7 @@
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 
-                
+                <br>
         </samp>
  <div align="center"> 
   
