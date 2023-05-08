@@ -27,7 +27,7 @@
                 <br>
                 <br>
         </samp>
- <div> 
+ <div align="center"> 
   
 ### :hammer_and_wrench: My Technical Stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
