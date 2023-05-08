@@ -8,9 +8,14 @@
   <a href="https://instagram.com/dimkadi"> <img src="https://i.imgur.com/BUTgEVZ.png" width="50" alt="Instagram Bage"/> </a>
   <a href="https://vk.com/dimkadi1"> <img src="https://i.imgur.com/yZMuyFT.png" width="50" alt="Vk Bage"/> </a>
   <br /></a>
-  <img src="https://komarev.com/ghpvc/?username=dimkadi&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
+  
+  <h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+        </samp>
+</h3>
+<br>
+<h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
