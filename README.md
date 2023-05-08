@@ -58,7 +58,9 @@
       <br>
         "Happy Coding👨🏽‍💻"
       <br>
+      <br>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      <br>
       <br>
        ════ ⋆★⋆ ════
     </p>
