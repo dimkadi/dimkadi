@@ -56,6 +56,7 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">"
+        "Happy Coding👨🏽‍💻"
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </p>
 </samp>
