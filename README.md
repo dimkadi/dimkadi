@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/dimkadi1"> <img src="https://i.imgur.com/sSuB0yd.png" width="50" alt="Telegram Bage"/> </a>
-  <a href="https://instagram.com/dimkadi"> <img src="https://i.imgur.com/BUTgEVZ.png" width="50" alt="Instagram Bage"/> </a>
-  <a href="https://vk.com/dimkadi1"> <img src="https://i.imgur.com/yZMuyFT.png" width="50" alt="Vk Bage"/> </a>
-  <br /></a>
-  
   <h3 align="center">
         <samp>&gt; Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -21,6 +16,20 @@
   <br /></a>
 
   </div>
+  <br>
+  
+  <p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer from <b>Russia</b> 」
+                <br>
+                「 Focused on creating impactful web applications that improve lives</b> 」
+                <br>
+                <br>
+        </samp>
+  
+  
+  
 <div> 
   
   ### :hammer_and_wrench: About me:
