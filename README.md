@@ -22,9 +22,11 @@
   <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Russia</b> 」
+                「 I'm a fullstack developer and designer from <b>Russia</b> 」
                 <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
+                「 When Im not focused on creating impactful web applications that improve lives,</b>
+                <br>
+                   I enjoy night photography, long rollerblading sessions in parks and cooking healthy.</b> 」
                 <br>
                 <br>
         </samp>
