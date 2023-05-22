@@ -25,7 +25,6 @@
                 「 I'm a fullstack developer and designer from <b>Russia</b> 」
                 <br>
                 <br>
-                <br>
                 「 When Im not focused on creating impactful web applications that improve lives,</b>
                 <br>
                    I enjoy night photography, long rollerblading sessions in parks and cooking healthy</b> 」
