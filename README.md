@@ -27,7 +27,7 @@
                 <br>   
                 「 When Im not focused on creating impactful web applications that improve lives,</b>
                 <br>
-                   I enjoy night photography, long rollerblading sessions in parks and cooking healthy</b> 」
+                   I enjoy night photography, mobas and cooking healthy</b> 」
                 <br>
                 <br>
         </samp>
