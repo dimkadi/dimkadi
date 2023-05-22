@@ -24,7 +24,6 @@
         <samp>
                 「 I'm a fullstack developer and designer from <b>Russia</b> 」
                 <br>
-           [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
                 <br>   
                 「 When Im not focused on creating impactful web applications that improve lives,</b>
                 <br>
