@@ -34,7 +34,7 @@
         </samp>
  <div align="center"> 
   
-### :hammer_and_wrench: My Technical Stack  :hammer_and_wrench:
+### :hammer_and_wrench: My Tech Stack  :hammer_and_wrench:
 
  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
