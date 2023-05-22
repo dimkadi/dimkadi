@@ -10,6 +10,7 @@
  I am <b><a target="_blank" href="https://github.com/dimkadi/">Dmitri Diakov</a></b>
         </samp>
 </h3>
+  <a href="https://www.linkedin.com/in/dmitridiakov/"> <img src="https://imgur.com/gallery/unF2qto" width="50" alt="LinkedIn"/> </a>
   <a href="https://t.me/dimkadi1"> <img src="https://i.imgur.com/sSuB0yd.png" width="50" alt="Telegram Bage"/> </a>
   <a href="https://instagram.com/dimkadi"> <img src="https://i.imgur.com/BUTgEVZ.png" width="50" alt="Instagram Bage"/> </a>
   <a href="https://vk.com/dimkadi1"> <img src="https://i.imgur.com/yZMuyFT.png" width="50" alt="Vk Bage"/> </a>
