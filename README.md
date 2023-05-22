@@ -33,6 +33,7 @@
                 <br>
         </samp>
  <div align="center"> 
+  <div class="triangle">
   
 ### :hammer_and_wrench: My Tech Stack  :hammer_and_wrench:
 
@@ -63,7 +64,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="Vuejs" width="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WP" alt="WP" width="40"/>&nbsp;
-  
+  </div>
   </div>
   
 <samp>
