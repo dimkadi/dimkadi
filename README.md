@@ -78,5 +78,7 @@
       <br>
       <br>
        ════ ⋆★⋆ ════
-    </p>
+      <br>
+[![codewars](https://www.codewars.com/users/dimkadi/badges/small)](https://www.codewars.com/users/dimkadi) 
+  </p>
 </samp>
