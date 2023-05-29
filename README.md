@@ -75,7 +75,7 @@
         "Happy Coding👨🏽‍💻"
       <br>
       <br>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65">
       <br>
       <br>
        ════ ⋆★⋆ ════
