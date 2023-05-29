@@ -81,5 +81,5 @@
   </p>
 </samp>
 <div id="codewars" align="center">
-  ![codewars](https://www.codewars.com/users/dimkadi/badges/small)
+  <img src="https://www.codewars.com/users/dimkadi/badges/small" alt="Codewars Badge"
  </div>
