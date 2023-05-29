@@ -70,12 +70,12 @@
 <samp>
     <p align="center">
        <br>
-      <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="80" height="120">
+      <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="80" height="100">
       <br>
         "Happy Coding👨🏽‍💻"
       <br>
       <br>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
       <br>
       <br>
        ════ ⋆★⋆ ════
