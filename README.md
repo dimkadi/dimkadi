@@ -70,7 +70,7 @@
 <samp>
     <p align="center">
        <br>
-      <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="50" height="60">
+      <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="80" height="120">
       <br>
         "Happy Coding👨🏽‍💻"
       <br>
